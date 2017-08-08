@@ -1,11 +1,46 @@
 {
-  "posts": [
+	"posts": [
+		{
+			"id": 1,
+			"title": "hello"
+		}
+	],
+
+	"profile": {
+		"name": "typicode"
+	},
+
+	"mensajes": [
+		{
+			"id": 1,
+      "fecha": "01/02/2017",
+      "titulo": "titulo 1", 
+      "cuerpo": "Este mensaje es por tal cosa...", 
+      "tipo": 1
+		},
+		{
+			"id": 2,
+      "fecha": "02/02/2017",
+      "titulo": "titulo 2", 
+      "cuerpo": "Este mensaje es por tal otra cosa...", 
+      "tipo": 2
+		}
+	],
+
+
+ "instituciones": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+			"id": 1,
+			"nombre": "Instituto de Investigación Superior API Local",
+			"url": "http://192.168.66.1/api/rest/mensajes"
+		},
+    {
+			"id": 2,
+			"nombre": "Universidad Provincial API GitHub",
+			"url": "http://my-json-server.typicode.com/brucecode/apimensajes/mensajes"
+		},
+                       
+	]
+
+
 }
