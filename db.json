@@ -80,17 +80,17 @@
     {
 			"id": 1,
 			"nombre": "API Local",
-			"url": "http://192.168.66.1/api/rest/mensajes"
+			"url": "http://192.168.66.1/api/rest"
 		},
     {
 			"id": 2,
 			"nombre": "API remoto GitHub 1",
-			"url": "http://my-json-server.typicode.com/brucecode/apimensajes/mensajes"
+			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1"
 		},
 		{
 			"id": 3,
 			"nombre": "API remoto GitHub 2",
-			"url": "http://my-json-server.typicode.com/brucecode/apimensajes/mensajes2"
+			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1"
 		},
    {
 			"id": 4,
