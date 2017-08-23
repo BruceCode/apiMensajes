@@ -74,61 +74,6 @@
 
 	],
 
-	"mensajes2": [
-		{
-			"id": 1,
-      "fecha": "11/02/2017",
-      "titulo": "titulo 1 - server 2", 
-      "cuerpo": "Este mensaje es por tal cosa... - server 2", 
-      "tipo": 1
-		},
-		{
-			"id": 2,
-      "fecha": "12/02/2017",
-      "titulo": "titulo 2 - server 2", 
-      "cuerpo": "Este mensaje es por tal otra cosa... - server 2", 
-      "tipo": 2
-		},
-		{
-			"id": 3,
-      "fecha": "13/02/2017",
-      "titulo": "titulo 3 - server 2", 
-      "cuerpo": "cuerpo del mensaje 3 - server 2", 
-      "tipo": 3
-		}
-	],
-
-
-
-"server1": [
-	{ "mensajes" : [
-	
-		{
-			"id": 1,
-      "fecha": "11/02/2017",
-      "titulo": "titulo 1 - server 2", 
-      "cuerpo": "Este mensaje es por tal cosa... - server 2", 
-      "tipo": 1
-		},
-		{
-			"id": 2,
-      "fecha": "12/02/2017",
-      "titulo": "titulo 2 - server 2", 
-      "cuerpo": "Este mensaje es por tal otra cosa... - server 2", 
-      "tipo": 2
-		},
-		{
-			"id": 3,
-      "fecha": "13/02/2017",
-      "titulo": "titulo 3 - server 2", 
-      "cuerpo": "cuerpo del mensaje 3 - server 2", 
-      "tipo": 3
-		}
-
-		]
-	}
-
-	],
 
 
  "instituciones": [
