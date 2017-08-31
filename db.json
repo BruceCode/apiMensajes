@@ -80,7 +80,7 @@
     {
 			"id": 1,
 			"nombre": "API Local",
-			"url": "http://172.27.31.85/api/rest"
+			"url": "http://172.27.202.198/api/rest"
 		},
     {
 			"id": 2,
