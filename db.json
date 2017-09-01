@@ -76,29 +76,37 @@
 
 
 
+
  "instituciones": [
     {
 			"id": 1,
-			"nombre": "API Local",
+			"nombre": "API Local WIFI",
 			"url": "http://172.27.202.198/api/rest"
 		},
-    {
+
+ 	{
 			"id": 2,
+			"nombre": "API Local CABLE",
+			"url": "http://172.27.31.858/api/rest"
+		},
+
+    {
+			"id": 3,
 			"nombre": "API remoto GitHub 1",
 			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1"
 		},
 		{
-			"id": 3,
+			"id": 4,
 			"nombre": "API remoto GitHub 2",
 			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1"
 		},
    {
-			"id": 4,
+			"id": 5,
 			"nombre": "API error url",
 			"url": "http://undefined"
 		},
    {
-			"id": 5,
+			"id": 6,
 			"nombre": "API 404",
 			"url": "https://facebook.github.io/react-native"
 		}
