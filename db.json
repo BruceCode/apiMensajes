@@ -163,6 +163,14 @@
     "titulo": "Más novedades de la App",
     "cuerpo": "¡Hola José!, el PUT está en camino...",
     "tipo": 2
+  },
+
+	{
+    "id": 21,
+    "fecha": "21/02/2017",
+    "titulo": "Recordatorio",
+    "cuerpo": "¡Hola José!, recordá levantar otro srver para probar multiples instituciones por background.",
+    "tipo": 3
   }
 		
 
