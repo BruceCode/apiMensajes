@@ -128,6 +128,14 @@
       "titulo": "Suspención de clases", 
       "cuerpo": "¡Hola José!, te informamos que se suspende la clase de Física 2 del día jueves 20/9 por problemas en la instalación eléctrica del laboratorio. Saludos.",
       "tipo": 9
+		},
+		
+		{
+			"id": 17,
+      "fecha": "17/02/2017",
+      "titulo": "reanuda de clases", 
+      "cuerpo": "¡Hola José!, te informamos que ya tenemos nueva fecha para la clase de Física 2, será el día viernes 13/9",
+      "tipo": 1
 		}
 		
 
