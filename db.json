@@ -21,6 +21,21 @@
       "titulo": "titulo 3", 
       "cuerpo": "cuerpo del mensaje 3", 
       "tipo": 3
+		},
+		{
+			"id": 4,
+      "fecha": "04/02/2017",
+      "titulo": "titulo 4", 
+      "cuerpo": "cuerpo del mensaje 4", 
+      "tipo": 4
+		},
+		
+		{
+			"id": 5,
+      "fecha": "05/02/2017",
+      "titulo": "titulo 5", 
+      "cuerpo": "cuerpo del mensaje 5",
+      "tipo": 5
 		}
 		
 
