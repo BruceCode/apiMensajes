@@ -145,6 +145,15 @@
       "titulo": "Novedades de la App", 
       "cuerpo": "¡Hola Hernán!, te recordamos que cada 15 minutos voy a buscar novedades",
       "tipo": 1
+		},
+		
+		
+		{
+			"id": 19,
+      "fecha": "19/02/2017",
+      "titulo": "Más novedades de la App", 
+      "cuerpo": "¡Hola José!, Pronto vamos a poder marcar los mensajes leidos desde la app",
+      "tipo": 1
 		}
 		
 
