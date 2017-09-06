@@ -72,6 +72,22 @@
       "tipo": 1
 		},
 		
+		{
+		"id": 11,
+      "fecha": "11/02/2017",
+      "titulo": "Prueba BackGround 11", 
+      "cuerpo": "¡Hola José!, no olvides llevar la cuenta de los tiempos del background",
+      "tipo": 1
+		},
+		
+		{
+		"id": 12,
+      "fecha": "11/02/2017",
+      "titulo": "Prueba BackGround 12", 
+      "cuerpo": "¡Hola José!, no olvides llevar la cuenta de los tiempos del background.background.background.background.background.background.background.background.background.background.background.background.background.background.background.background.background.background.background.background.background.background.background.background.",
+      "tipo": 2
+		},
+		
 		
 		{
 			"id": 9,
