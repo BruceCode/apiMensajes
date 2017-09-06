@@ -120,8 +120,15 @@
       "titulo": "Nuena nota", 
       "cuerpo": "¡Hola José!, Tu nueva nota es un La, ya podés usarla en tus canciones. Saludos.",
       "tipo": 9
-		} 
+		},
 		
+		{
+			"id": 16,
+      "fecha": "16/02/2017",
+      "titulo": "Suspención de clases", 
+      "cuerpo": "¡Hola José!, te informamos que se suspende la clase de Física 2 del día jueves 20/9 por problemas en la instalación eléctrica del laboratorio. Saludos.",
+      "tipo": 9
+		}
 		
 
 	],
