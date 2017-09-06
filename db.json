@@ -90,6 +90,22 @@
 		
 		
 		{
+		"id": 13,
+      "fecha": "11/02/2017",
+      "titulo": "Prueba BackGround 13", 
+      "cuerpo": "¡Hola José!, no olvides llevar la cuenta de los tiempos del background.",
+      "tipo": 3
+		},
+		
+		{
+		"id": 14,
+      "fecha": "11/02/2017",
+      "titulo": "Prueba BackGround 14", 
+      "cuerpo": "¡Hola José!, no olvides llevar la cuenta de los tiempos del background.",
+      "tipo": 4
+		},
+		
+		{
 			"id": 9,
       "fecha": "09/02/2017",
       "titulo": "Nuena nota", 
