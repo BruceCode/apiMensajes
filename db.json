@@ -195,6 +195,14 @@
     "titulo": "Recordatorio 3",
     "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
     "tipo": 4
+  },
+  
+  {
+    "id": 25,
+    "fecha": "24/02/2017",
+    "titulo": "Recordatorio 4",
+    "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
+    "tipo": 4
   }
 		
 
