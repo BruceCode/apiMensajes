@@ -136,6 +136,15 @@
       "titulo": "Nueva fecha de Laboratorio de Física 2", 
       "cuerpo": "¡Hola Hernán!, te informamos que ya tenemos nueva fecha para la clase de Física 2, será el día viernes 13/9",
       "tipo": 1
+		},
+		
+		
+		{
+			"id": 18,
+      "fecha": "18/02/2017",
+      "titulo": "Novedades de la App", 
+      "cuerpo": "¡Hola Hernán!, te recordamos que cada 15 minutos voy a buscar novedades",
+      "tipo": 1
 		}
 		
 
