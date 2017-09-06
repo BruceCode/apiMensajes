@@ -62,6 +62,17 @@
       "tipo": 8
 		},
 		
+		
+		
+		{
+			"id": 10,
+      "fecha": "10/02/2017",
+      "titulo": "Cambio de horarios", 
+      "cuerpo": "¡Hola José!, no olvides llevar la cuenta de los tiempos del background",
+      "tipo": 1
+		},
+		
+		
 		{
 			"id": 9,
       "fecha": "09/02/2017",
