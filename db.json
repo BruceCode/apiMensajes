@@ -43,8 +43,18 @@
       "fecha": "06/02/2017",
       "titulo": "Nueva nota cargada de Programación 1", 
       "cuerpo": "el anterior mensaje fue a las 10:20. Saludos.",
-      "tipo": 5
+      "tipo": 6
+		},
+		
+		{
+			"id": 7,
+      "fecha": "07/02/2017",
+      "titulo": "Suspensión de clases", 
+      "cuerpo": "Estimados Alumnos, les informamos que las clases del día de la fecha 29/02, están suspendidas debido al ataque de Godzilla. Por favor difundan el mensaje. Saludos. Mensaje anterior 10:28",
+      "tipo": 7
 		}
+		
+		
 		
 
 	],
