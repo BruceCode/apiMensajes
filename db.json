@@ -154,7 +154,16 @@
       "titulo": "Más novedades de la App", 
       "cuerpo": "¡Hola José!, Pronto vamos a poder marcar los mensajes leidos desde la app",
       "tipo": 1
-		}
+		},
+		
+		
+		{
+    "id": 20,
+    "fecha": "20/02/2017",
+    "titulo": "Más novedades de la App",
+    "cuerpo": "¡Hola José!, el PUT está en camino...",
+    "tipo": 2
+  }
 		
 
 	],
