@@ -8,59 +8,7 @@
       "cuerpo": "Este mensaje es por tal cosa...", 
       "tipo": 1
 		},
-		{
-			"id": 2,
-      "fecha": "02/02/2017",
-      "titulo": "titulo 2", 
-      "cuerpo": "Este mensaje es por tal otra cosa...", 
-      "tipo": 2
-		},
-		{
-			"id": 3,
-      "fecha": "03/02/2017",
-      "titulo": "titulo 3", 
-      "cuerpo": "cuerpo del mensaje 3", 
-      "tipo": 3
-		},
-		{
-			"id": 4,
-      "fecha": "04/02/2017",
-      "titulo": "titulo 4", 
-      "cuerpo": "cuerpo del mensaje 4", 
-      "tipo": 4
-		},
 		
-		{
-			"id": 5,
-      "fecha": "05/02/2017",
-      "titulo": "titulo 5", 
-      "cuerpo": "cuerpo del mensaje 5",
-      "tipo": 5
-		},
-		
-		{
-			"id": 6,
-      "fecha": "06/02/2017",
-      "titulo": "Nueva nota cargada de Programación 1", 
-      "cuerpo": "el anterior mensaje fue a las 10:20. Saludos.",
-      "tipo": 6
-		},
-		
-		{
-			"id": 7,
-      "fecha": "07/02/2017",
-      "titulo": "Suspensión de clases", 
-      "cuerpo": "Estimados Alumnos, les informamos que las clases del día de la fecha 29/02, están suspendidas debido al ataque de Godzilla. Por favor difundan el mensaje. Saludos. Mensaje anterior 10:28",
-      "tipo": 7
-		},
-		
-		{
-			"id": 8,
-      "fecha": "08/02/2017",
-      "titulo": "Cambio de horarios", 
-      "cuerpo": "¡Hola José!, cambiamos el horario del almuerzo a las 13:15 por problemas de logística del pan",
-      "tipo": 8
-		},
 		
 		{
 			"id": 9,
