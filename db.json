@@ -4,7 +4,7 @@
 		
   {
     "id": 32,
-    "fecha": "2/03/2017",
+    "fecha": "02/03/2017",
     "titulo": "BACKGROUND Recordatorio 11",
     "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
     "tipo": 1
@@ -12,10 +12,18 @@
   
   {
     "id": 33,
-    "fecha": "33/03/2017",
+    "fecha": "03/03/2017",
     "titulo": "BACKGROUND Recordatorio 12",
     "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
     "tipo": 1
+  },
+  
+  {
+    "id": 34,
+    "fecha": "04/03/2017",
+    "titulo": "BACKGROUND Recordatorio 13",
+    "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
+    "tipo": 4
   }
 		
 
