@@ -43,13 +43,13 @@
     {
 			"id": 1,
 			"nombre": "API Local WIFI",
-			"url": "http://172.27.202.198/api/rest"
+			"url": "http://172.27.31.85/apiapp/rest"
 		},
 
  	{
 			"id": 2,
 			"nombre": "API Local CABLE",
-			"url": "http://172.27.31.85/api/rest"
+			"url": "http://172.27.31.85/apiapp/rest"
 		},
 
     {
