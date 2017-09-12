@@ -24,6 +24,16 @@
     "titulo": "BACKGROUND Recordatorio 13",
     "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
     "tipo": 4
+  },
+
+
+
+  {
+    "id": 35,
+    "fecha": "04/03/2017",
+    "titulo": "BACKGROUND",
+    "cuerpo": "¡Hola José!, Esta es un prueba =)",
+    "tipo": 4
   }
 		
 
