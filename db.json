@@ -9,42 +9,38 @@
     "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
     "tipo": 1
   },
-  
-  {
-    "id": 33,
-    "fecha": "03/03/2017",
-    "titulo": "BACKGROUND Recordatorio 12",
-    "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
-    "tipo": 1
-  },
-  
-  {
-    "id": 34,
-    "fecha": "04/03/2017",
-    "titulo": "BACKGROUND Recordatorio 13",
-    "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
-    "tipo": 4
-  },
-
-
-
-  {
-    "id": 35,
-    "fecha": "04/03/2017",
-    "titulo": "BACKGROUND",
-    "cuerpo": "¡Hola José!, Esta es un prueba =)",
-    "tipo": 4
-  },
-
 
 {
-    "id": 36,
+    "id": 41,
     "fecha": "13/09/2017",
-    "titulo": "BACKGROUND",
-    "cuerpo": "¡Hola José!, ¿Este mensaje llegará bien?",
+    "titulo": "BACKGROUND tipo 1",
+    "cuerpo": "¡Hola José!, soy un mensaje tipo 1",
+    "tipo": 1
+  },
+
+{
+    "id": 42,
+    "fecha": "13/09/2017",
+    "titulo": "BACKGROUND tipo 2",
+    "cuerpo": "¡Hola José!, soy un mensaje tipo 2",
+    "tipo": 2
+  },
+
+{
+    "id": 43,
+    "fecha": "13/09/2017",
+    "titulo": "BACKGROUND tipo 3",
+    "cuerpo": "¡Hola José!, soy un mensaje tipo 3",
+    "tipo": 3
+  },
+
+{
+    "id": 44,
+    "fecha": "13/09/2017",
+    "titulo": "BACKGROUND tipo 4",
+    "cuerpo": "¡Hola José!, soy un mensaje tipo 4",
     "tipo": 4
   }
-		
 
 	],
 
