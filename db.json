@@ -3,43 +3,53 @@
 	"mensajes": [
 		
   {
-    "id": 32,
-    "fecha": "02/03/2017",
-    "titulo": "BACKGROUND Recordatorio 11",
+    "id": 51,
+    "fecha": "14/07/2017",
+    "titulo": "Tipo 1",
     "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
     "tipo": 1
   },
 
-{
-    "id": 41,
-    "fecha": "13/09/2017",
-    "titulo": "BACKGROUND tipo 1",
-    "cuerpo": "¡Hola José!, soy un mensaje tipo 1",
-    "tipo": 1
-  },
 
-{
-    "id": 42,
-    "fecha": "13/09/2017",
-    "titulo": "BACKGROUND tipo 2",
-    "cuerpo": "¡Hola José!, soy un mensaje tipo 2",
+  {
+    "id": 52,
+    "fecha": "14/07/2017",
+    "titulo": "Tipo 2",
+    "cuerpo": "¡Hola José!, ...",
     "tipo": 2
   },
 
-{
-    "id": 43,
-    "fecha": "13/09/2017",
-    "titulo": "BACKGROUND tipo 3",
-    "cuerpo": "¡Hola José!, soy un mensaje tipo 3",
+  {
+    "id": 53,
+    "fecha": "14/07/2017",
+    "titulo": "Tipo 3",
+    "cuerpo": "¡Hola José!, ...",
     "tipo": 3
   },
 
-{
-    "id": 44,
-    "fecha": "13/09/2017",
-    "titulo": "BACKGROUND tipo 4",
-    "cuerpo": "¡Hola José!, soy un mensaje tipo 4",
+
+  {
+    "id": 54,
+    "fecha": "14/07/2017",
+    "titulo": "Tipo 4",
+    "cuerpo": "¡Hola José!, ...",
     "tipo": 4
+  },
+
+  {
+    "id": 55,
+    "fecha": "14/07/2017",
+    "titulo": "Tipo 5",
+    "cuerpo": "¡Hola José!, ...",
+    "tipo": 5
+  },
+
+  {
+    "id": 56,
+    "fecha": "14/07/2017",
+    "titulo": "Tipo 6",
+    "cuerpo": "¡Hola José!, ...",
+    "tipo": 6
   }
 
 	],
