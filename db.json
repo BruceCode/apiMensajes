@@ -82,13 +82,13 @@
     {
 			"id": 3,
 			"nombre": "API remoto GitHub 1",
-			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
+			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
 			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
 		},
 		{
 			"id": 4,
 			"nombre": "API remoto GitHub 2",
-			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
+			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
 			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
 		},
    {
