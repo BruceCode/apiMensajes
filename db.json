@@ -5,7 +5,7 @@
   {
     "id": 80,
     "fecha": "14/07/2017",
-    "titulo": "Tipo 10",
+    "titulo": "E1 - Tipo 10",
     "cuerpo": "¡Hola José!, recordá levantar otro server para probar multiples instituciones por background.",
     "tipo": 10
   },
@@ -14,7 +14,7 @@
   {
     "id": 79,
     "fecha": "14/07/2017",
-    "titulo": "Tipo 9",
+    "titulo": "E1 - Tipo 9",
     "cuerpo": "¡Hola José!, ...",
     "tipo": 9
   },
@@ -22,7 +22,7 @@
   {
     "id": 78,
     "fecha": "14/07/2017",
-    "titulo": "Tipo 8",
+    "titulo": "E1 - Tipo 8",
     "cuerpo": "¡Hola José!, ...",
     "tipo": 8
   },
@@ -31,7 +31,7 @@
   {
     "id": 77,
     "fecha": "14/07/2017",
-    "titulo": "Tipo 7",
+    "titulo": "E1 - Tipo 7",
     "cuerpo": "¡Hola José!, ...",
     "tipo": 7
   },
@@ -39,7 +39,7 @@
   {
     "id": 76,
     "fecha": "14/07/2017",
-    "titulo": "Tipo 6",
+    "titulo": "E1 - Tipo 6",
     "cuerpo": "¡Hola José!, ...",
     "tipo": 6
   },
@@ -47,7 +47,7 @@
   {
     "id": 75,
     "fecha": "14/07/2017",
-    "titulo": "Tipo 5",
+    "titulo": "E1 - Tipo 5",
     "cuerpo": "¡Hola José!, ...",
     "tipo": 5
   }
