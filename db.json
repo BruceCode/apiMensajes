@@ -64,53 +64,29 @@
 
 
 
- "instituciones": [
-    {
-			"id": 1,
-			"nombre": "API Local WIFI",
-			"url": "http://172.27.31.85/apiapp/rest",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
-
- 	{
-			"id": 2,
-			"nombre": "API Local CABLE",
-			"url": "http://172.27.31.85/apiapp/rest",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
-
-    {
-			"id": 3,
-			"nombre": "API remoto GitHub 1",
-			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
-		{
-			"id": 4,
-			"nombre": "API remoto GitHub 2",
-			"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
-   {
-			"id": 5,
-			"nombre": "API error url",
-			"url": "http://undefined",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
-   {
-			"id": 6,
-			"nombre": "API 404",
-			"url": "https://facebook.github.io/react-native",
-			"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-		},
+"instituciones": [
 
 {
-"id": 7,
-"nombre": "SIU TEST 001",
+"id": 1,
+"nombre": "Universidad Nacional SIU",
 "url": "http://carola.siu.edu.ar/api-app/001/rest",
 "url3w": "http://carola.siu.edu.ar/3w/001"
+},
+
+{
+"id": 3,
+"nombre": "Instituto Superior ReactNative - Facultad Regional 1",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer1",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+},
+
+{
+"id": 4,
+"nombre": "Escuela de Programación JSM",
+"url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
 }
 
-	]
+]
 
 }
