@@ -88,8 +88,15 @@
 "activa": true,
 "url": "http://my-json-server.typicode.com/brucecode/apiRestServer2",
 "url3w": "http://gintonic.siu.edu.ar/3w/trunk"
-}
+},
 
+{
+"id": 1003,
+"nombre": "API Local CABLE",
+"activa": true,
+"url": "http://172.27.31.85/apiapp/rest",
+"url3w": "http://gintonic.siu.edu.ar/3w/trunk"
+}
 
 ]
 
